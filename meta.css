@@ -1,0 +1,12 @@
+#containerOne {
+    display: flex;
+    flex-direction:column ;
+}
+#h {
+    background-color: salmon;
+    border-style: solid ;
+}
+#i {
+    flex-shrink: 12%;
+    background-color: gray;
+}
